@@ -1,0 +1,6 @@
+edge-tts
+gradio
+pydub
+pandas
+nest-asyncio
+matplotlib
